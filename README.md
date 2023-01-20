@@ -38,6 +38,3 @@ There is a sample file `rest-requests.http` with a few examples of **add**,  **r
     "quality": "GOOD",
     "stock": 6
     }"
-
-## Known issues
-For some unknown reason the application *may* not be build/run in windows cmd or Power Shell.
